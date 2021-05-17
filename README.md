@@ -1,3 +1,27 @@
+## Only Next.js
+
+This repo contains **only** the source code of Next.js, **master branch**, that is buried inside Vercel monorepo setup:
+https://github.com/vercel/next.js/tree/master
+
+It contains the output of this command:  
+`cp packages/next/* ~/only-next.js/`
+
+The **purpose** is to:
+
+- Browse Next.js code in Github
+- Search in the master branch (Github only will search in the default branch of a repo, and that is `canary` in the official Next.js repo)
+
+👀 Don't expect this code to be functional
+
+**Help wanted**: Do you have a smart idea on keeping the content updated automatically?
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <p align="center">
   <a href="https://nextjs.org">
     <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" height="128">
